@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ブラックボックス - Black Box",
+  "base_artist": "LiSA",
+  "createdAt": "2026-03-24T08:15:37.482132Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブラックボックス",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/01_ブラックボックス_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブラックボックス (黑盒子)",
+      "artist": "LiSA",
+      "has_synced": true,
+      "path": "select/02_ブラックボックス_(黑盒子)_LiSA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ブラックボックス",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/03_ブラックボックス_LiSA.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ブラックボックス -TV Ver.-",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/04_ブラックボックス_-TV_Ver.-_LiSA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ブラックボックス",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/05_ブラックボックス_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブラックボックス",
+      "artist": "LiSA",
+      "has_synced": false,
+      "path": "select/pl_01_ブラックボックス_LiSA.txt"
+    }
+  ]
+}
